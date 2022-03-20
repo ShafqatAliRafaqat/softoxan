@@ -1,0 +1,3 @@
+.bg-color, .parallax::before{
+background: linear-gradient(135deg, #09203f, #537895);
+}
